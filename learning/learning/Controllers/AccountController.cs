@@ -27,7 +27,7 @@ namespace learning.Controllers
             UserManager = userManager;
             SignInManager = signInManager;
         }
-
+        //this is for testing branch
         public ApplicationSignInManager SignInManager
         {
             get
