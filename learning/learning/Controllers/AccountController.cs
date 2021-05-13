@@ -21,7 +21,7 @@ namespace learning.Controllers
         public AccountController()
         {
         }
-
+        //this one for master branch
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
         {
             UserManager = userManager;
